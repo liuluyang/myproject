@@ -13,6 +13,6 @@ class Readfile(object):
         print 'start read'
 
 
-def __name__ == '__main__':
-    Readfile()
+if __name__ == '__main__':
+    Readfile().readfirst()
 
