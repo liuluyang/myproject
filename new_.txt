@@ -7,4 +7,4 @@ git add in master
 second add in branch dev
 git add in branch
 
-test pull in branch
+test pull in branch  fix bug 14:12
